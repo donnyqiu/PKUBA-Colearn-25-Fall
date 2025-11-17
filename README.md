@@ -101,7 +101,9 @@
 | ------------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | [DeFi/CauchyK9](https://github.com/qingoba/PKUBA-Colearn-25-Fall/blob/main/DeFi/CauchyK9.md) |   | | | | | | | |
 | [Afterglow36](https://github.com/qingoba/PKUBA-Colearn-25-Fall/blob/main/Afterglow36.md) |   | | | | | | | |
+| [miyosep](https://github.com/qingoba/PKUBA-Colearn-25-Fall/blob/main/miyosep.md) |   | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
